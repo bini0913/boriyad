@@ -1,0 +1,21 @@
+From 6031517a8c6464c97dbbd5e37c9d2977ca4c211b Mon Sep 17 00:00:00 2001
+From: nextecadmin <nextec22@gmail.com>
+Date: Sat, 23 May 2026 18:38:52 +0300
+Subject: [PATCH] add README
+
+---
+ README.md | Bin 2386 -> 2424 bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+diff --git a/README.md b/README.md
+index 450e2566316855b0a46d0a183d53f4feb914dd44..fb1a58d1cb861293526f47012291d0625c6d6405 100644
+GIT binary patch
+delta 46
+zcmca4^h0Pv5T}|lg93vSLq0<hLncEdLn1>8kRJf#<uhb4q%tHklrZoza4`S?19=HM
+
+delta 7
+Ocmew%bV+DK5GMc*S_1k2
+
+-- 
+2.43.0
+
